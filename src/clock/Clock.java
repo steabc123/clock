@@ -1,4 +1,6 @@
-package display;
+package clock;
+
+import display.Display;
 
 public class Clock {
     private Display hours = new Display(24);
